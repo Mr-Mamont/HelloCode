@@ -1,0 +1,15 @@
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\bin\Debug\net6.0\Exapmle003_Sum.exe
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\bin\Debug\net6.0\Exapmle003_Sum.deps.json
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\bin\Debug\net6.0\Exapmle003_Sum.runtimeconfig.json
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\bin\Debug\net6.0\Exapmle003_Sum.dll
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\bin\Debug\net6.0\Exapmle003_Sum.pdb
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.csproj.AssemblyReference.cache
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.AssemblyInfoInputs.cache
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.AssemblyInfo.cs
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.dll
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\obj\Debug\net6.0\refint\Exapmle003_Sum.dll
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.pdb
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.genruntimeconfig.cache
+C:\Users\Мамонт\Documents\GB\Examples\Exapmle003_Sum\obj\Debug\net6.0\ref\Exapmle003_Sum.dll
