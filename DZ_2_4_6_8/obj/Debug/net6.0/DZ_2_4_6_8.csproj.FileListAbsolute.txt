@@ -1,0 +1,15 @@
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\obj\Debug\net6.0\DZ_2_4_6_8.csproj.AssemblyReference.cache
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\obj\Debug\net6.0\DZ_2_4_6_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\obj\Debug\net6.0\DZ_2_4_6_8.AssemblyInfoInputs.cache
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\obj\Debug\net6.0\DZ_2_4_6_8.AssemblyInfo.cs
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\obj\Debug\net6.0\DZ_2_4_6_8.csproj.CoreCompileInputs.cache
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\bin\Debug\net6.0\DZ_2_4_6_8.exe
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\bin\Debug\net6.0\DZ_2_4_6_8.deps.json
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\bin\Debug\net6.0\DZ_2_4_6_8.runtimeconfig.json
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\bin\Debug\net6.0\DZ_2_4_6_8.dll
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\bin\Debug\net6.0\DZ_2_4_6_8.pdb
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\obj\Debug\net6.0\DZ_2_4_6_8.dll
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\obj\Debug\net6.0\refint\DZ_2_4_6_8.dll
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\obj\Debug\net6.0\DZ_2_4_6_8.pdb
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\obj\Debug\net6.0\DZ_2_4_6_8.genruntimeconfig.cache
+C:\Users\Мамонт\Documents\GB\Examples\DZ_2_4_6_8\obj\Debug\net6.0\ref\DZ_2_4_6_8.dll
